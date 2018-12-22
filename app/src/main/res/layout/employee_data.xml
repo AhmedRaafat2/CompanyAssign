@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="25dp"
+    >
+
+    <TextView
+        android:id="@+id/emp_id_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/emp_id"/>
+
+    <TextView
+        android:id="@+id/emp_name_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/emp_name"
+        android:layout_marginTop="10dp"/>
+
+
+    <TextView
+        android:id="@+id/emp_address_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/emp_address"
+        android:layout_marginTop="10dp"/>
+
+
+    <TextView
+        android:id="@+id/emp_salary_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/emp_salary"
+        android:layout_marginTop="10dp"/>
+
+
+    <TextView
+        android:id="@+id/emp_job_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/emp_job"
+        android:layout_marginTop="10dp"/>
+
+
+</LinearLayout>

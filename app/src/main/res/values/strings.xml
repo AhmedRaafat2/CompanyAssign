@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IntentPractise</string>
+
+    <string name="create_emp">Create Employee</string>
+    <string name="create_dept">Create Department</string>
+    <string name="emp_id">id</string>
+    <string name="emp_name">name</string>
+    <string name="emp_address">adreaa</string>
+    <string name="emp_salary">salary</string>
+    <string name="emp_job">job</string>
+    <string name="emp_submit">Submit</string>
+    <string name="dept_no">no</string>
+    <string name="dept_name">name</string>
+    <string name="dept_desc">description</string>
+    <string name="dept_submit">Submit</string>
+    <string name="emp_data_title">Employee data</string>
+    <string name="dept_data_title">Department data</string>
+
+
+</resources>
